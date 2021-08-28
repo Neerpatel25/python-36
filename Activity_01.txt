@@ -2,8 +2,8 @@ Copy paste the all the commands that you executed on IDLE:
 
 >>> print(273.15+25)
 298.15
->>> print(911 + 314)
-1225
+>>> print(911 - 314)
+597
 >>> print(3*19)
 57
 >>> print(2020/17)
